@@ -121,8 +121,9 @@ header {
 }
 
 .heading {
-  padding-top: 80px;
-  padding-bottom: 50px;
+  font-size: 50px;
+  padding-top: 50px;
+  padding-bottom: 30px;
   color: #5f5d60;
 }
 
